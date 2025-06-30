@@ -4,6 +4,8 @@ func main() {
 	// hello()
 	// printValues()
 	// variables()
-	Constants()
+	// Constants()
+
+	forLoop()
 
 }
