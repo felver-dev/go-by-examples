@@ -1,6 +1,9 @@
 package main
 
 func main() {
-	hello()
-	printValues()
+	// hello()
+	// printValues()
+
+	variables()
+
 }
