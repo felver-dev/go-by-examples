@@ -3,7 +3,9 @@ package main
 func main() {
 	// hello()
 	// printValues()
+	// variables()
+	// Constants()
 
-	variables()
+	forLoop()
 
 }
