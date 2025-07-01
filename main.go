@@ -50,5 +50,7 @@ func main() {
 
 	// pointers()
 
-	stringsandrunes()
+	// stringsandrunes()
+
+	structs()
 }
