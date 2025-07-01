@@ -9,5 +9,7 @@ func main() {
 	// ifelse()
 	// Switch()
 	// arrays()
-	maps()
+	// maps()
+	greetPeople()
+	greetByName("Jules")
 }
