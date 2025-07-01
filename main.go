@@ -58,5 +58,7 @@ func main() {
 
 	// interfaces()
 
-	enums()
+	// enums()
+
+	Generics()
 }
