@@ -46,5 +46,7 @@ func main() {
 	// fmt.Println(factorial(5))
 	// fmt.Println(factorial(4))
 
-	Range()
+	// Range()
+
+	pointers()
 }
