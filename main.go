@@ -8,5 +8,6 @@ func main() {
 	// forLoop()
 	// ifelse()
 	// Switch()
-	arrays()
+	// arrays()
+	maps()
 }
