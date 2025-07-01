@@ -35,7 +35,16 @@ func main() {
 	// names := []string{"Jules", "Felver", "John"}
 	// variadic_func(names...)
 
-	value := closures()
-	fmt.Println(value())
-	fmt.Println(value())
+	// value := closures()
+	// fmt.Println(value())
+	// fmt.Println(value())
+
+	// displayName := func(n string) string {
+	// 	return "Hey " + n
+	// }
+
+	// fmt.Println(displayName("Jules"))
+
+	fmt.Println(factorial(5))
+	fmt.Println(factorial(4))
 }
