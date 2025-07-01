@@ -5,7 +5,7 @@ func main() {
 	// printValues()
 	// variables()
 	// Constants()
+	// forLoop()
 
-	forLoop()
-
+	ifelse()
 }
