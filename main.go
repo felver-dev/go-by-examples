@@ -7,5 +7,6 @@ func main() {
 	// Constants()
 	// forLoop()
 	// ifelse()
-	Switch()
+	// Switch()
+	arrays()
 }
