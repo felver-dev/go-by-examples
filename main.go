@@ -6,6 +6,6 @@ func main() {
 	// variables()
 	// Constants()
 	// forLoop()
-
-	ifelse()
+	// ifelse()
+	Switch()
 }
