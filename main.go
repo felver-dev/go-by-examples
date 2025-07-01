@@ -56,5 +56,7 @@ func main() {
 
 	// methods()
 
-	interfaces()
+	// interfaces()
+
+	enums()
 }
