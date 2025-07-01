@@ -48,5 +48,7 @@ func main() {
 
 	// Range()
 
-	pointers()
+	// pointers()
+
+	stringsandrunes()
 }
