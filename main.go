@@ -54,7 +54,7 @@ func main() {
 
 	// structs()
 
-	methods()
+	// methods()
 
-	// interfaces()
+	interfaces()
 }
