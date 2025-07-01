@@ -52,5 +52,9 @@ func main() {
 
 	// stringsandrunes()
 
-	structs()
+	// structs()
+
+	methods()
+
+	// interfaces()
 }
