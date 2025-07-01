@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func main() {
 	// hello()
 
@@ -45,6 +43,8 @@ func main() {
 
 	// fmt.Println(displayName("Jules"))
 
-	fmt.Println(factorial(5))
-	fmt.Println(factorial(4))
+	// fmt.Println(factorial(5))
+	// fmt.Println(factorial(4))
+
+	Range()
 }
