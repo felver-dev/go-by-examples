@@ -69,4 +69,7 @@ func main() {
 	// Goroutines()
 
 	// Timers()
+
+	Templates()
+
 }
