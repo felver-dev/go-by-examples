@@ -60,5 +60,7 @@ func main() {
 
 	// enums()
 
-	Generics()
+	// Generics()
+
+	Errors()
 }
