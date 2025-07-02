@@ -62,5 +62,9 @@ func main() {
 
 	// Generics()
 
-	Errors()
+	// Errors()
+
+	// CustomErrors()
+
+	Goroutines()
 }
