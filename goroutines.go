@@ -11,15 +11,26 @@ func fg(from string) {
 	}
 }
 
+func direBonjour(nom string) {
+	for i := 0; i < 3; i++ {
+		fmt.Printf("Bonjour %s! (%d)\n", nom, i)
+		time.Sleep(time.Second)
+	}
+}
 func Goroutines() {
-	fg("direct")
+	// fg("direct")
 
-	go fg("goroutine")
+	// go func(msg string) {
+	// 	fmt.Println(msg)
+	// }("going")
+	// go fg("goroutine")
 
-	go func(msg string) {
-		fmt.Println(msg)
-	}("going")
+	// time.Sleep(time.Second)
+	// fmt.Println("done")
 
-	time.Sleep(time.Second)
-	fmt.Println("done")
+	go direBonjour("Alice")
+	go direBonjour("Bob")
+
+	time.Sleep(4 * time.Second)
+	fmt.Println("Terminé")
 }
