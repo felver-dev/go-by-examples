@@ -66,5 +66,7 @@ func main() {
 
 	// CustomErrors()
 
-	Goroutines()
+	// Goroutines()
+
+	// Timers()
 }
